@@ -1,0 +1,14 @@
+{
+  "name": "watchtower",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Djiang",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "autoprefixer": "^10.3.4",
+    "live-server": "^1.2.1",
+    "postcss-cli": "^8.3.1",
+    "tailwindcss": "^2.2.15"
+  }
+}
